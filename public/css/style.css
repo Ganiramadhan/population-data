@@ -1,0 +1,23 @@
+.sampul {
+  width: 80px;
+}
+
+
+.table > tbody > tr * {
+  vertical-align: middle;
+}
+
+.detail-sampul {
+  width: 220px;
+  align-self: center;
+}
+
+.back a {
+  text-decoration: none;
+  font-size: 17px;
+}
+.back a:hover {
+  font-size: 18px;
+  color: blue;
+  transition: .5s;
+}
